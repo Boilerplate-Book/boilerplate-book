@@ -9,6 +9,7 @@
       "error",
       { "argsIgnorePattern": "^_" }
     ],
-    "@typescript-eslint/no-explicit-any": "error"
+    "@typescript-eslint/no-explicit-any": "error",
+    "no-console": ["error", { "allow": ["error"] }]
   }
 }
